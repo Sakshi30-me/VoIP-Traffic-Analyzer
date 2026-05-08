@@ -1,4 +1,4 @@
-call_id,from,to,start_time,end_time,duration_s,total_rtp_packets,flow_src,flow_dst,flow_src_port,flow_dst_port,flow_packets,flow_packet_loss_pct,flow_jitter_ms
+The_call_id,from,to,start_time,end_time,duration_s,total_rtp_packets,flow_src,flow_dst,flow_src_port,flow_dst_port,flow_packets,flow_packet_loss_pct,flow_jitter_ms
 578222729-4665d775@578222732-4665d772,<sip:voi18063@sip.cybercity.dk>;tag=903df0a,<sip:voi18063@sip.cybercity.dk>,,,,0,,,,,,,
 105090259-446faf7a@192.168.1.2,"""arik"" <sip:816666@voip.brurjula.net>;tag=6433ef9",<sip:97239287044@voip.brujula.net>,,,,9,192.168.1.2,212.242.33.36,30000.0,40392.0,9.0,0.0,23.229
 85216695-42dcdb1d@192.168.1.2,"""arik"" <sip:voi18062@sip.cybercity.dk>;tag=51449dc",<sip:0097239287044@sip.cybercity.dk>,,,,9,192.168.1.2,212.242.33.36,30000.0,40392.0,9.0,0.0,23.229
